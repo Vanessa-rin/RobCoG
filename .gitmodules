@@ -54,3 +54,12 @@
 	path = Plugins/UViz
 	url = https://github.com/robcog-iai/UViz.git
 	branch = master
+[submodule "Plugins/UTFPublisher"]
+	path = Plugins/UTFPublisher
+	url = https://github.com/robcog-iai/UTFPublisher.git
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = https://github.com/robcog-iai/UROSBridge.git
+[submodule "Plugins/UROSWorldControl"]
+	path = Plugins/UROSWorldControl
+	url = https://github.com/robcog-iai/UROSWorldControl.git
