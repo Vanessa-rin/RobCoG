@@ -10,6 +10,9 @@ public class RobCoG : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay" });
+// getting the urosbridge editor module for the callback registration of RWC
+   	 // getting UROSControl for the ROS service registration
+  		  PublicDependencyModuleNames.AddRange(new string[] {"UROSBridge","UROSControl"});
 
 		//PrivateDependencyModuleNames.AddRange(new string[] {"HeadMountedDisplay", "SteamVR" });
 
