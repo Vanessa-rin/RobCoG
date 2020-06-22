@@ -46,3 +46,6 @@
 	path = Plugins/UROSWorldControl
 	url = https://github.com/robcog-iai/UROSWorldControl.git
 	branch = master
+[submodule "Plugins/UTFPublisher"]
+	path = Plugins/UTFPublisher
+	url = https://github.com/robcog-iai/UTFPublisher.git
