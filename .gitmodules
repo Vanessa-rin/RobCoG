@@ -49,3 +49,6 @@
 [submodule "Plugins/UTFPublisher"]
 	path = Plugins/UTFPublisher
 	url = https://github.com/robcog-iai/UTFPublisher.git
+[submodule "Plugins/URoboVision"]
+	path = Plugins/URoboVision
+	url = https://github.com/robcog-iai/URoboVision.git
